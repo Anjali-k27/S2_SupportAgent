@@ -360,3 +360,7 @@ Get a key at: [aistudio.google.com](https://aistudio.google.com)
 | `fastapi` | REST + SSE API server |
 | `uvicorn` | ASGI server |
 | `python-dotenv` | `.env` file loading |
+
+## UI Output
+
+<img width="1556" height="886" alt="image" src="https://github.com/user-attachments/assets/8cc198e9-98a1-4b73-a8a8-5a1c6ccdae4f" />
